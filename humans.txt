@@ -1,0 +1,19 @@
+/* TEAM */
+    Software Sculptor: Pepe Doval
+    Twitter: @pepellou
+    From: Galicia
+
+    CEO and Content Master: Joanna Miller
+    Twitter: @JoannaTries
+    From: Minnesota
+
+/* THANKS */
+
+    Moral support: Michael Stoops
+    Twitch: @Chesskudo
+
+/* SITE */
+    Last update: 2021/03/03
+    Language: English
+    Doctype: HTML5
+    IDE: vim, gimp
