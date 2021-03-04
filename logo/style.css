@@ -593,3 +593,27 @@ td {
     border: 1px dashed #888;
     padding: 10px 15px;
 }
+
+article.intro-article {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-items: center;
+}
+
+@media only screen and (max-width: 800px) {
+    article.intro-article {
+        grid-template-columns: auto auto;
+    }
+}
+
+article.intro-article img:nth-child(2) {
+    filter: invert(0.7);
+}
+
+article.intro-article img:nth-child(3) {
+    filter: sepia(1);
+}
+
+article.intro-article img:nth-child(4) {
+    filter: drop-shadow(4px 4px 6px #f42);
+}
